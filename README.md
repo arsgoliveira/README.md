@@ -1,4 +1,4 @@
-# Olá! Eu sou o Antonio Rodrigo Silva Gomes de Oliveira
+# Olá! Eu sou o Antonio Rodrigo Silva Gomes de Oliveira 👋
 
 - Estudando front-end  -  < HTML > ✔ - { CSS } ✔ - ( JS ) carregando...
 - Técnico em Hardware por 19 anos.
