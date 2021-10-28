@@ -1,12 +1,13 @@
 # Olá! Eu sou o Antonio Rodrigo Silva Gomes de Oliveira 👋 <br>
+<img align="right" width="280" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 <p>
 Trabalhei por 15 anos na area de TI com manutenção de computadores.
 Dentro desses 15 anos, trabalhei de inicio de forma autônoma, quando me mudei pro interior de SP mais precisamente em Águas de Santa Bárbara, onde vi a necessidade e oportunidade de montar uma loja de informática com atendimento técnico e mesmo sem muita experiência tanto na parte técnica quanto na parte administrativa, encarei a oportunidade de montar a primeira Lan house e assistencia tecnica da cidade onde conquistei uma boa experiência na área.
-Após esses anos arrisquei empreender em outra area e nesse ano de 2021 resolvi aprender Front-end e voltar pra area de TI. 
+Após esses anos arrisquei empreender em outra area e nesse ano de 2021 resolvi aprender Front-end e voltar pra area de TI. <br>
 É uma area que eu amo e espero contribuir com todo empenho. 
 </p>
 
-<img align="right" width="280" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 - Estudando front-end  -  < HTML > ✔ - { CSS } ✔ - ( JS ) carregando...
 - Técnico em Hardware por 19 anos.
 <br>
