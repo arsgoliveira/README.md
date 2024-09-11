@@ -3,7 +3,7 @@
 
 
 
-- Estudando front-end  -  < HTML > ✔ - { CSS } ✔ - ( JS ) carregando...
+- Estudando front-end  -  < HTML > ✔ - { CSS } ✔ - ( JS ) ✔
 - Técnico em Hardware por 19 anos.
 <br>
   <div align="center">
@@ -23,7 +23,7 @@
  <a href="https://app.slack.com/client/T0241FHP31T/C024H6HNV2M" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank">
  <a href="https://discord.gg/#8265" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:argoliveira80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/antonio-rodrigo-gomes-de-oliveira-bb738134/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/antonio-rodrigo-silva-gomes-de-oliveira-ab607a309/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/arsgoliveira/README.md/blob/output/github-contribution-grid-snake.svg)
  
