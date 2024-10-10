@@ -4,7 +4,7 @@
 
 
 - Estudando front-end  -  < HTML > ✔ - { CSS } ✔ - ( JS ) ✔
-- Técnico em Hardware por 19 anos.
+- Técnico em Hardware por 21 anos.
 <br>
   <div align="center">
   <a href="https://github.com/arsgoliveira">
